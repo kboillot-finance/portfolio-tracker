@@ -49,7 +49,7 @@ Professional investment tracking tool designed for managing multi-currency stock
 
 ## Installation
 
-1. Download `Investment-Tracker.xlsx`
+1. Download `Personal Investment-Tracker.xlsx`
 2. Open in Microsoft Excel
 
 ## File Structure
